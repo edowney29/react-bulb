@@ -25,12 +25,12 @@
       "pre-commit": "npm run-script build"
     }
   },
-  "name": "react-bulb",
-  "version": "0.0.2",
+  "name": "react-lights",
+  "version": "1.0.0",
   "description": "A colorful boolean indicator for React.",
   "main": "dist/index.js",
-  "repository": "https://github.com/cawfree/react-bulb",
-  "author": "Alex Thomas (@cawfree) <hello@cawfree.com>",
+  "repository": "https://github.com/edowney29/react-lights",
+  "author": "Eric Downey (@edowney29) <edowney29@gmail.com>",
   "license": "MIT",
   "private": false
 }
