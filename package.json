@@ -5,7 +5,6 @@
     "@babel/polyfill": "^7.7.0",
     "@babel/preset-env": "^7.7.6",
     "@babel/preset-react": "^7.7.4",
-    "husky": "^3.1.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0"
   },
@@ -20,11 +19,11 @@
   "scripts": {
     "build": "./node_modules/.bin/babel ./index.js --out-file ./dist/index.js"
   },
-  "name": "react-lights",
+  "name": "react-dots",
   "version": "1.0.0",
-  "description": "A colorful boolean indicator for React.",
+  "description": "A colorful boolean indicator for React",
   "main": "dist/index.js",
-  "repository": "https://github.com/edowney29/react-lights",
+  "repository": "https://github.com/edowney29/react-dots",
   "author": "Eric Downey (@edowney29) <edowney29@gmail.com>",
   "license": "MIT",
   "private": false
